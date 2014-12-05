@@ -1,5 +1,5 @@
-I_D = # Name of the Internet-Draft (without revision)
-REVNO = # I-D revision number
+I_D = draft-lhotka-dhc-yang-dhcpv6-client
+REVNO = 00
 DATE ?= $(shell date +%F)
 MODULES =
 FIGURES = model.tree

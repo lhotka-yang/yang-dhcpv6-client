@@ -1,22 +1,8 @@
-YANG-I-D
-========
+yang-dhcpv6-client
+==================
 
-[Fork](https://github.com/llhotka/YANG-I-D/wiki/Fork) this project to
-create an environment for integrated development of YANG modules and
-Internet-Drafts.
+YANG module and I-D for a DHCPv6 client data model.
 
-Edit the forked project's README according to the following template:
-
----
-
-_PROJECT NAME_
-==============
-
-_Description of the project._
-
-_Put project-specific instructions here._
-
-Generic YANG-I-D [instructions](https://github.com/llhotka/YANG-I-D/wiki/Instructions).
-
-
+Generic YANG-I-D
+[instructions](https://github.com/llhotka/YANG-I-D/wiki/Instructions).
 
